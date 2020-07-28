@@ -3,7 +3,7 @@
 >Let The Needle Drop is an E-Commerce website that sells vinyl albums and novelties. 
 
 ## General info
-Fullstack e-commerce website utilizing Java and Angular technologies. This website was inspired by my curiosity to see what it takes to develop a project on the front end. I am wrapping up a backend software development bootcamp and I wanted to see how I could design a REST API and see the functionality visually.  
+Fullstack e-commerce website utilizing Java and Angular technologies. This website was inspired by my curiosity to see what it takes to develop a full stack project.  
 
 ## Demo
 ![Alt Text](https://github.com/Shahna-C/Let-The-Needle-Drop/blob/master/Demo.gif)
